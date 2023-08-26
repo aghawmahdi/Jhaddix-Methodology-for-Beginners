@@ -178,8 +178,8 @@ Methodology:
 
 1. **Reconnaissance**
 This phase involves gathering information about the target system or organization. It includes passive activities like searching for publicly available data on search engines, social media, and public records. Active reconnaissance techniques might involve DNS enumeration, subdomain discovery, and network scanning. The goal is to gather a comprehensive picture of the target's digital footprint.
+![Untitled](https://github.com/aghawmahdi/Jhaddix-Methodology-for-Beginners/assets/64673577/588b4517-19c1-484c-8855-8eb35ae9deb7)
 
-![Untitled](Jhaddix%20f9d050543b124326890cf0010c1c2990/Untitled.png)
 
 1. **Discovery**
 In this step, the focus is on identifying the specific assets of the target. These assets can include web applications, APIs, servers, subdomains, and more. The purpose is to create a list of potential entry points that could be vulnerable to attacks.
